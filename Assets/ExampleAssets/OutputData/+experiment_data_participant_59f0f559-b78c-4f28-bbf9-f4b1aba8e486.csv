@@ -1,0 +1,13 @@
+time,event,value
+1,participant_id,59f0f559-b78c-4f28-bbf9-f4b1aba8e486
+1,condition,positive
+2,lessons,4;5;2;3;1
+671,starting_story,9;neutral
+1016,hmd_pitch,357.0267
+2010,hmd_pitch,357.0251
+3008,hmd_pitch,357.033
+4012,hmd_pitch,357.0293
+5009,hmd_pitch,357.0298
+6011,hmd_pitch,357.0281
+7022,hmd_pitch,357.041
+8020,hmd_pitch,357.0446

@@ -1,0 +1,18 @@
+audio offset,blinking state,mouth state
+4340,open,notImpressed
+4451,half_closed,notImpressed
+4472,closed,notImpressed
+4752,half_closed,notImpressed
+10300,open,notImpressed
+10415,half_closed,notImpressed
+10435,closed,notImpressed
+10749,half_closed,notImpressed
+12800,open,notImpressed
+16203,open,admonishing
+16319,half_closed,admonishing
+16339,closed,admonishing
+16632,half_closed,admonishing
+21282,open,admonishing
+21383,half_closed,admonishing
+21403,closed,admonishing
+21726,open,admonishing

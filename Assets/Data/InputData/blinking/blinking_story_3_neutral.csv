@@ -1,0 +1,24 @@
+audio offset,blinking state,eye state
+4712,open,neutral
+4824,half_closed,neutral
+4844,closed,neutral
+5110,half_closed,neutral
+9458,open,neutral
+9574,half_closed,neutral
+9595,closed,neutral
+9903,half_closed,neutral
+15952,open,neutral
+16071,half_closed,neutral
+16090,closed,neutral
+16368,half_closed,neutral
+21310,open,neutral
+21428,half_closed,neutral
+21448,closed,neutral
+21752,half_closed,neutral
+26705,open,neutral
+26811,half_closed,neutral
+26831,closed,neutral
+27116,half_closed,neutral
+31529,open,neutral
+31629,half_closed,neutral
+31649,open,neutral
